@@ -1,0 +1,1 @@
+D:\port\laragon\bin\vscode\code.exe %cd%
